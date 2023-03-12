@@ -1,0 +1,2 @@
+here is the result: Hello this is the FIRST ftx file.
+ Hello this is the SECOND ftx file.
